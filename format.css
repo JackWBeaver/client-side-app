@@ -1,0 +1,23 @@
+#profile-picture {
+    border-radius : 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    float: right;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p, li, h3, h4 {
+    color: white;
+}
